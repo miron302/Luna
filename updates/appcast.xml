@@ -1,1 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 
+    <channel>
+        <title>Luna Updates</title>
+        <link>https://miron302.github.io/Luna/</link>
+        <description>Updates for Luna</description>
+        <language>en</language>
+
+        <item>
+            <title>Luna 2.0.0</title>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <pubDate>Wed, 16 Sep 2026 16:00:00 +0100</pubDate>
+
+            <description><![CDATA[
+                <h2>Luna 2.0.0</h2>
+                <p>Initial Luna 2.0 release.</p>
+            ]]></description>
+
+            <enclosure
+                url="https://github.com/miron302/Luna/releases/download/v2.0.0/Luna.zip"
+                type="application/octet-stream"
+                length="0"
+                sparkle:edSignature="YOUR_SIGNATURE_HERE" />
+        </item>
+
+    </channel>
+</rss>
