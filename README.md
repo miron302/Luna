@@ -28,10 +28,19 @@ No unnecessary restrictions.
 
 ## Screenshots
 
-** PLACEHOLDER **
-** PLACEHOLDER **
-** PLACEHOLDER **
-** PLACEHOLDER **
+<table>
+  <tr>
+    <td><img src="screenshots/luna-home.png" alt="Luna home screen" width="450"></td>
+    <td><img src="screenshots/luna-cust.png" alt="Luna customization settings" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/luna-providers.png" alt="Luna wallpaper providers" width="450"></td>
+    <td><img src="screenshots/luna-storage.png" alt="Luna storage settings" width="450"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="screenshots/luna-about.png" alt="Luna about screen" width="450"></td>
+  </tr>
+</table>
 
 ## Contributing
 
