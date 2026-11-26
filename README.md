@@ -1,3 +1,6 @@
+## This project has reached EOL (End-Of-Life). This is because i’ve stopped developing this 2 months ago after my MacBook broke. The MacBook is running again but i do not want to develop this anymore. Any issues and Pull Requests will be closed and nothing will be accepted in the future. Thank you for your support to this app.
+
+
 <p align="left">
   <img src="screenshots/luna-icon.png" width="120">
 </p>
